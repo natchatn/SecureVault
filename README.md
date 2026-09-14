@@ -57,3 +57,9 @@ If Flask import is still red in VS Code:
 2. Select `Python: Select Interpreter`
 
 3. Choose the `venv` interpreter
+
+## Project Members
+
+- **Natchanon Meechana** — [@natchatn](https://github.com/natchatn)
+- **Phutharit Promin** — [@phutharitpromin-sys](https://github.com/phutharitpromin-sys)
+- **Kittipot Chumwuttiluck** — [@chococatza](https://github.com/chococatza)
