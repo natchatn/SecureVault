@@ -62,4 +62,4 @@ If Flask import is still red in VS Code:
 
 - **Natchanon Meechana** — [@natchatn](https://github.com/natchatn)
 - **Phutharit Promin** — [@phutharitpromin-sys](https://github.com/phutharitpromin-sys)
-- **Kittipot Chumwuttiluck** — [@chococatza](https://github.com/chococatza)
+- **Piyathida Sukniran** — [@chococatza](https://github.com/chococatza)
