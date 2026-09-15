@@ -30,15 +30,7 @@ http://127.0.0.1:5000/
 
 ### 4. Required Folders
 
-Make sure these folders exist:
-
-uploads/
-
-encrypted/
-
-crypto/
-
-templates/
+The application automatically creates the uploads/ and encrypted/ directories at startup. SQLite creates instance/database.db when the application initializes.
 
 ### 5. Notes
 
