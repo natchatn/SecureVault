@@ -18,7 +18,7 @@ source venv/bin/activate
 
 ## 2. Install Dependencies
 
-pip install flask flask_sqlalchemy werkzeug pycryptodome
+pip install -r requirements.txt
 
 ### 3. Run the Project
 
